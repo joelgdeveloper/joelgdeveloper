@@ -5,7 +5,11 @@ Full-Stack Developer
 -----------------
 
 
+
+
 Soy un Desarrollador autodidacta que busca constantemente soluciones innovadoras a los problemas cotidianos. Tengo muchas ganas de aumentar mis habilidades de desarrollo para conseguir trabajo en este increíble mundo digital. A lo largo de mi etapa de desarrollo personal, he perfeccionado mi pensamiento analítico y mis habilidades de colaboración, y me encanta trabajar en equipo.
+
+
 
 
 * 🌍 Vivo en Argentina
