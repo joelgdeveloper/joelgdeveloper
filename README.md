@@ -1,4 +1,4 @@
-Hi 👋 Mi nombre es Joel 
+Hola 👋 Mi nombre es Joel 
 =======================
 
 Full-Stack Developer
